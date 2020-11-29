@@ -16,7 +16,7 @@ BOT WHATSWAPP NO TERMUX
 > pkg install ffmpeg
 > pkg install nodejs
 > apt update && apt upgrade
-> git clone https://github.com/alfiansx/alfbot
+> git clone https://github.com/Higor400k/Alf-Bot
 > cd alfbot
 > bash install.sh
 > npm i node-tesseract-ocr
